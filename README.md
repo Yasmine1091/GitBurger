@@ -8,6 +8,6 @@ Découvrez notre recette de hamburger maison.
 
 - Pain burger
 - Steak
-- Salade
+- Salade 
 - Tomate
 - Fromage 
